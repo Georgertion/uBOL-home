@@ -311,7 +311,7 @@
   "storage": {
     "managed_schema": "managed_storage.json"
   },
-  "version": "2025.512.1008",
+  "version": "2025.517.1145",
   "web_accessible_resources": [
     {
       "resources": [

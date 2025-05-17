@@ -715,6 +715,7 @@
 {"action":{"type":"block"},"condition":{"urlFilter":"||moeni.net/img/a/*x"},"id":714,"priority":10},
 {"action":{"type":"block"},"condition":{"urlFilter":"||cdnbuzz.buzz//banner/"},"id":715,"priority":10},
 {"action":{"type":"block"},"condition":{"urlFilter":"||ohli24.com/img/"},"id":716,"priority":10},
+{"action":{"type":"block"},"condition":{"initiatorDomains":["your.gg"],"urlFilter":"||ggtics-static.s3.ap-northeast-1.amazonaws.com/dev-slot-image/"},"id":717,"priority":10},
 {"action":{"type":"block"},"condition":{"urlFilter":"||topgirl.co/project/bm/js/nuevo.min.js"},"id":718,"priority":10},
 {"action":{"type":"block"},"condition":{"urlFilter":"||wwwimageup.live-009.com/other/wx_app_admin/"},"id":719,"priority":10},
 {"action":{"type":"block"},"condition":{"initiatorDomains":["1004past.com"],"urlFilter":"/thumb/kh/bn/"},"id":720,"priority":10},
